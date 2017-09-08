@@ -1,0 +1,2 @@
+# QT_SerialportAssistant
+QT_SerialportAssistant
